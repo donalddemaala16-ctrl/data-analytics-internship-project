@@ -50,7 +50,7 @@ Multi-user support or cloud backend.
 Mobile app development.
 Advanced graphical dashboards beyond basic stats in HTML/CSS.
 
-**4. Success Criteria**
+**Success Criteria**
 
 **Functionality:**
 
@@ -70,7 +70,7 @@ No errors for valid queries or UI interactions.
 Scalability (Optional Stretch Goal):
 Able to handle additional songs (>100) without breaking functionality.
 
-**5. Metrics & KPIs**
+**Metrics & KPIs**
 
 Number of successful AI responses per session.
 User engagement with frontend input box.
