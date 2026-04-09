@@ -1,7 +1,6 @@
 import json, random
 from pathlib import Path
 
-
 def format_response(answer):
     text = str(answer)
     lower = text.lower()
@@ -21,7 +20,6 @@ def format_list_response(items, icon):
     for i, item in enumerate(items, 1):
         lines.append(f"{i}. {item}")
     return "\n".join(lines)
-
 
 def load_data():
     data_path = Path(__file__).with_name("digitaltwin.json")
