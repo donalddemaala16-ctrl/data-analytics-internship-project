@@ -156,7 +156,7 @@ json
 
 ## 8. Implementation Mapping
 
-PRD Requirement             	  Implementation
+PRD Requirement and Implementation
 - Data storage                 	- digitaltwin.json
 - AI query system	              - digitaltwin_rag.py
 - Rule-based logic	            - agents.md
