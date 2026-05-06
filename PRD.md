@@ -5,7 +5,6 @@ project: music-digital-rag-twin
 version: 1.0.0
 status: draft
 last_updated: 2026-04-09
-owner: TBD
 tags:
 	- prd
 	- requirements
